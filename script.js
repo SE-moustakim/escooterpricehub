@@ -10,6 +10,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 264,
+    weight: 31,
     rating: "⭐4.4 (1088+)",
     priceRange: 199,
     orderUrl: "https://amzn.to/4473x5O"
@@ -25,39 +26,42 @@ const products = [
     maxpower: 350,
     topspeed: 16,
     weightlimit: 264,
+    weight: 26,
     rating: "⭐4.3 (849+)",
     priceRange: 179,
     orderUrl: "https://amzn.to/4kFlVtp"
   },
    {
     id: 3,
-    brand: "TS TST GRP LLC",
-    name: "Electric Scooter for Adult, Up to 19 MPH and 20 Miles",
-    image: "https://m.media-amazon.com/images/I/71NZb5YW4KL._AC_SX679_.jpg",
+    brand: "NIU",
+    name: "300X Grey Electric Scooter for Adults - NIU E-Scooter for Commute 600W-900W Max Power",
+    image: "https://m.media-amazon.com/images/I/51HYhk7YOFL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
-    distance: "15",
+    distance: "37.3",
     charging: "6",
-    maxpower: 350,
-    topspeed: 19,
+    maxpower: 1000,
+    topspeed: 23.6,
     weightlimit: 31,
-    rating: "⭐4.6 (130+)",
-    priceRange: 169,
-    orderUrl: "https://amzn.to/3HJVx35"
+    weight: 48,
+    rating: "⭐4.1 (438+)",
+    priceRange: 1198,
+    orderUrl: "https://amzn.to/3HIDB90"
   },
      {
     id: 4,
-    brand: "iScooter",
-    name: "Electric Scooter for Adults & Teens",
-    image: "https://m.media-amazon.com/images/I/71b2ia2P2LL._AC_SX679_.jpg",
+    brand: "Apollo",
+    name: "Electric Scooter, City/Go Models - Commuter E-Scooter for Adults with 350-500W Dual Motors, 265LB Max Load",
+    image: "https://m.media-amazon.com/images/I/51sODfKNTEL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
-    distance: "18",
+    distance: "34",
     charging: "6",
-    maxpower: 350,
-    topspeed: 19,
-    weightlimit: 220,
-    rating: "⭐4.1 (153+)",
-    priceRange: 199,
-    orderUrl: "https://amzn.to/4e3Vtat"
+    maxpower: 1500,
+    topspeed: 28,
+    weightlimit: 265,
+    weight: 46,
+    rating: "⭐4.0 (33+)",
+    priceRange: 1099,
+    orderUrl: "https://amzn.to/4l9Kwqa"
   },
      {
     id: 5,
@@ -70,6 +74,7 @@ const products = [
     maxpower: 350,
     topspeed: 16,
     weightlimit: 256,
+    weight: 26,
     rating: "⭐4.4 (193+)",
     priceRange: 279,
     orderUrl: "https://amzn.to/4kSkoQT"
@@ -86,6 +91,7 @@ const products = [
     maxpower: 350,
     topspeed: 19.9,
     weightlimit: 264,
+    weight: 32,
     rating: "⭐4.5 (672+)",
     priceRange: 259,
     orderUrl: "https://amzn.to/4l1lAky"
@@ -102,6 +108,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 265,
+    weight: 30,
     rating: "⭐4.4 (1058+)",
     priceRange: 199,
     orderUrl: "https://amzn.to/4lbq5Jy"
@@ -117,6 +124,7 @@ const products = [
     maxpower: 500,
     topspeed: 22,
     weightlimit: 265,
+    weight: 0,
     rating: "⭐4.6 (199+)",
     priceRange: 279,
     orderUrl: "https://amzn.to/4e4vlMs"
@@ -132,6 +140,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.2 (337+)",
     priceRange: 189,
     orderUrl: "https://amzn.to/45WWoHD"
@@ -147,6 +156,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.3 (278+)",
     priceRange: 249,
     orderUrl: "https://amzn.to/4kNfwfS"
@@ -162,13 +172,14 @@ const products = [
     maxpower: 350,
     topspeed: 18,
     weightlimit: 220,
+    weight: 0,
     rating: "⭐4.4 (709+)",
     priceRange: 169,
     orderUrl: "https://amzn.to/3SVPmvb"
   },
       {
     id: 12,
-    brand: "INVANTI",
+    brand: "INVANTI delete",
     name: "E30 Electric Scooter with Smart APP, 19.9 Miles Range",
     image: "https://m.media-amazon.com/images/I/61Tzi0D-8KL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
@@ -177,6 +188,7 @@ const products = [
     maxpower: 700,
     topspeed: 18,
     weightlimit: 265,
+    weight: 0,
     rating: "⭐4.4 (170+)",
     priceRange: 209,
     orderUrl: "https://amzn.to/4480xpT"
@@ -192,6 +204,7 @@ const products = [
     maxpower: 800,
     topspeed: 25,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.3 (553+)",
     priceRange: 519,
     orderUrl: "https://amzn.to/4l1ErvS"
@@ -199,17 +212,18 @@ const products = [
      {
     id: 14,
     brand: "NIU",
-    name: "Electric Scooter for Adults - NIU E-Scooter for Commute 600W-900W Max Power",
-    image: "https://m.media-amazon.com/images/I/51LpRlJaK5L._AC_SX679_.jpg",
+    name: "KQi3 Max Electric Scooter for Adults - E-Scooter for Commute 600W-900W Max Power",
+    image: "https://m.media-amazon.com/images/I/51BssXOemOL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
     distance: "18",
     charging: "5",
     maxpower: 600,
     topspeed: 17.4,
     weightlimit: 265,
-    rating: "⭐4.0 (1441+)",
+    weight: 0,
+    rating: "⭐4.1 (460+)",
     priceRange: 379,
-    orderUrl: "https://amzn.to/4jXOUYl"
+    orderUrl: "https://www.amazon.com/NIU-Electric-Scooter-Adults-Suspension/dp/B0DBTM46NK?th=1&linkCode=ll1&tag=escooterprice-20&linkId=462d36c4478a8b6a83136df0941465b2&language=en_US&ref_=as_li_ss_tl"
   },
   {
     id: 15,
@@ -222,6 +236,7 @@ const products = [
     maxpower: 1000,
     topspeed: 25,
     weightlimit: 308,
+    weight: 0,
     rating: "⭐3.7 (156+)",
     priceRange: 799,
     orderUrl: "https://amzn.to/45IM6Lp"
@@ -237,6 +252,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 300,
+    weight: 0,
     rating: "⭐4.3 (3862+)",
     priceRange: 329,
     orderUrl: "https://amzn.to/4n4MGcp"
@@ -252,6 +268,7 @@ const products = [
     maxpower: 1000,
     topspeed: 40,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.3 (251+)",
     priceRange: 999,
     orderUrl: "https://amzn.to/43X1q4o"
@@ -259,7 +276,7 @@ const products = [
       {
     id: 18,
     brand: "NIU",
-    name: "Electric Scooter for Adults - NIU E-Scooter for Commute",
+    name: "K300P Electric Scooter for Adults - E-Scooter 300P/Balck for Commute",
     image: "https://m.media-amazon.com/images/I/51a9lgNL2-L._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
     distance: "30",
@@ -267,8 +284,9 @@ const products = [
     maxpower: 900,
     topspeed: 20,
     weightlimit: 265,
-    rating: "⭐4.0 (1441+)",
-    priceRange: 689,
+    weight: 0,
+    rating: "⭐4.1 (460+)",
+    priceRange: 839,
     orderUrl: "https://amzn.to/4n4EAQS"
   },
      {
@@ -282,6 +300,7 @@ const products = [
     maxpower: 500,
     topspeed: 15,
     weightlimit: 198,
+    weight: 0,
     rating: "⭐4.3 (2123+)",
     priceRange: 369,
     orderUrl: "https://amzn.to/4e593uh"
@@ -297,13 +316,14 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.4 (1116+)",
     priceRange: 239,
     orderUrl: "https://amzn.to/4kNhb56"
   },
   {
     id: 21,
-    brand: "I INMOTION",
+    brand: "I INMOTION delete",
     name: "Scooter for Hilly Area Riders, Dual Motor Inmotion Climber Electric Scooter for Adults",
     image: "https://m.media-amazon.com/images/I/81RXns37iJL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
@@ -312,6 +332,7 @@ const products = [
     maxpower: 750,
     topspeed: 23.7,
     weightlimit: 287,
+    weight: 0,
     rating: "⭐4.0 (170+)",
     priceRange: 599,
     orderUrl: "https://amzn.to/3FHhkYF"
@@ -327,24 +348,26 @@ const products = [
     maxpower: 500,
     topspeed: 19,
     weightlimit: 330,
+    weight: 0,
     rating: "⭐4.0 (157+)",
     priceRange: 299,
     orderUrl: "https://amzn.to/4jPsNmM"
   },
      {
     id: 23,
-    brand: "NIU",
-    name: "Electric Scooter for Adults - NIU E-Scooter for Commute 600W-900W Max Power",
-    image: "https://m.media-amazon.com/images/I/51HYhk7YOFL._AC_SX679_.jpg",
+    brand: "Segway",
+    name: "ZT3 Pro Electric Scooter, Up to 24.9 MPH, 43.5-Mile Range",
+    image: "https://m.media-amazon.com/images/I/71MrffGbtzL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
-    distance: "37.3",
-    charging: "6",
-    maxpower: 1000,
-    topspeed: 23.7,
+    distance: "43.5",
+    charging: "4",
+    maxpower: 1600,
+    topspeed: 24.9,
     weightlimit: 265,
-    rating: "⭐4.0 (1441+)",
-    priceRange: 999,
-    orderUrl: "https://amzn.to/4n0O1AS"
+    weight: 0,
+    rating: "⭐4.5 (74+)",
+    priceRange: 914,
+    orderUrl: "https://www.amazon.com/Segway-Electric-Scooter-Suspension-Certified/dp/B0DDTFMPS6?crid=IE8MU0N5NKTP&dib=eyJ2IjoiMSJ9.Tbdz-UHnJ4bz2lmfAojUDEIbLjlx5KukjawXOSRLLyZymrbySnPWVr26loynjdNZFYor8nW9K-teT59qPPBpfHKjTs7WzaWgmKHR-msiQQzeVfPS5rckSrwXhmf8dtu8sQyapgWktlEOIJo4JSXm51FDJGzVY3mJvQcIL0Cukliba-uHjmToOGzerV5TAr_xcSk-3TuuFrcAJdXIMu1G2UmAkYi9T-F91_X_fUEx4zFVJJ-MMkrRJ8MI-Z9oY1LQjJtmWv0XQ1pWFts2p7joqPpSRDpj1aMet_-VxooBgfk.6HDeWZK0zLZZlmDzobrzfEnYVPYUEG-7CFreh-tcVdc&dib_tag=se&keywords=segway+zt3+pro+electric+scooter&qid=1750506991&sprefix=Segway+ZT3+Pro+Electric+Scooter%2Caps%2C743&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=escooterprice-20&linkId=5507238df33712ead8ce1772b0f849f6&language=en_US&ref_=as_li_ss_tl"
   },
       {
     id: 24,
@@ -357,6 +380,7 @@ const products = [
     maxpower: 500,
     topspeed: 20,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.3 (2160+)",
     priceRange: 549,
     orderUrl: "https://amzn.to/44hYIrw"
@@ -364,7 +388,7 @@ const products = [
    {
     id: 25,
     brand: "Hiboy",
-    name: "S2 Pro/S2 MAX Electric Scooter, 500W Motor, 10' Solid Tires",
+    name: "S2 Pro Electric Scooter, 500W Motor, 10' Solid Tires",
     image: "https://m.media-amazon.com/images/I/61xpDfP-eXL._AC_SX679_.jpg",
     alt: "Bulova Marine Star Automatic Diver",
     distance: "25.6",
@@ -372,6 +396,7 @@ const products = [
     maxpower: 500,
     topspeed: 19,
     weightlimit: 220,
+    weight: 0,
     rating: "⭐4.4 (6265+)",
     priceRange: 467,
     orderUrl: "https://amzn.to/4l6TbJZ"
@@ -387,6 +412,7 @@ const products = [
     maxpower: 350,
     topspeed: 19,
     weightlimit: 264,
+    weight: 0,
     rating: "⭐4.0 (1283+)",
     priceRange: 199,
     orderUrl: "https://amzn.to/4kAQ6Sy"
@@ -402,6 +428,7 @@ const products = [
     maxpower: 500,
     topspeed: 19,
     weightlimit: 220,
+    weight: 0,
     rating: "⭐4.3 (3864+)",
     priceRange: 467,
     orderUrl: "https://amzn.to/4e5HeSC"
@@ -417,10 +444,140 @@ const products = [
     maxpower: 300,
     topspeed: 15.5,
     weightlimit: 220,
+    weight: 0,
     rating: "⭐4.2 (13241+)",
     priceRange: 261,
-    orderUrl: "https://amzn.to/4e5HeSC"
+    orderUrl: "https://www.amazon.com/GOTRAX-GXL-Commuting-Electric-Scooter/dp/B07K9MB6X1?crid=3PDYYVCCZ2GNQ&dib=eyJ2IjoiMSJ9.xW9aSllHMHUm5DaiML85Huz2PcLlAaoI2kk4E3dWh0OS4bez2kVwHKH__9ZNstvpZGCtTN7bZ_AzH0gLlBE_9hPdKPNi86YpTu9s5thxG3HqztSuV_hhk-klRceF76mwxgCSRBXw1ypg_AJsKjOFBp7-53pfJVn-SibtYVh4IRRkLGNJVOgQBTK-We9Qs5FF0oNBuVWqr0gGzs7Anb228hxyr0-0bwDEg2SjeVSpwhMZTaEI7OU2KVoOmCtTd0I5wnLy6_sqPQLjs7BUsM61myvqXIcKONfIDf8eO8CVNIk.1ZtaXlcby28HyF2n_2qy5W8EVXcdyv4eR2fnnNpnhak&dib_tag=se&keywords=GXL%2BV2%2BElectric%2BScooter&qid=1750511707&s=sporting-goods&sprefix=gxl%2Bv2%2Belectric%2Bscooter%2Csporting%2C466&sr=1-1&th=1&linkCode=ll1&tag=escooterprice-20&linkId=c5cbe27af0604adbdb0f4703ae31807e&language=en_US&ref_=as_li_ss_tl"
+  },
+   {
+    id: 29,
+    brand: "iScooter",
+    name: "iX7 Pro Electric Scooter, 40/43/50 Miles Long Range & 28/38 MPH Top Speed E Scooter",
+    image: "https://m.media-amazon.com/images/I/719a6pLrfGL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "50",
+    charging: "6",
+    maxpower: 2000,
+    topspeed: 38,
+    weightlimit: 330,
+    weight: 0,
+    rating: "⭐4.3 (112+)",
+    priceRange: 899,
+    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Off-Road-Signals/dp/B0DFLVPZ32?crid=EN59M6XFGZ9U&dib=eyJ2IjoiMSJ9.J_BOFCMlBrpALZCLAV_H6hMSgCGjUuCzbyK3WwjPLUJXWYCYLhUvxJSwG43GEURt-BPufoD5LywNEssSCh92BtDtE5eoPgyuQ-n_cAZ1Dyi5BYIig_MUyMgFhlaolOvM6QjO1h_3mUZ3u0WP9yNmhYM_blKrr7Jb3UPIitYSUpT55Eg-zNRRlARpU1GQxVAyobMX3fjcUyDyUybUyEzr2DxhubkP-MJlDua2k5z0rQ7KhmP105aH0rt-r04_K6HXdGUIdBwAlHmFxqsOVUeZK-QV2MzHe7Wxw6ZAp_qk93w.bkk536reIwaNKPEQKjjLSJ80wvYiZ_copbbZN5QNxBE&dib_tag=se&keywords=iX7%2BPro%2BElectric%2BScooter%2C%2B40%2F43%2F50%2BMiles%2BLong%2BRange&qid=1750177496&s=sporting-goods&sprefix=ix7%2Bpro%2Belectric%2Bscooter%2C%2B40%2F43%2F50%2Bmiles%2Blong%2Brange%2Csporting%2C819&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=escooterprice-20&linkId=819fb74f19511a0c3064ee6bc8b63f34&language=en_US&ref_=as_li_ss_tl"
+  },
+   {
+    id: 30,
+    brand: "Segway",
+    name: "G30P Ninebot MAX Electric Kick Scooter w/Powerful Motor, Long Miles Range, 18.6 & 22mph Top Speed",
+    image: "https://m.media-amazon.com/images/I/51+yUFaO8SL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "40",
+    charging: "6",
+    maxpower: 1000,
+    topspeed: 18.6,
+    weightlimit: 220,
+    weight: 0,
+    rating: "⭐4.1 (271+)",
+    priceRange: 699,
+    orderUrl: "https://www.amazon.com/Segway-Ninebot-Electric-KickScooter-Suspension/dp/B0D83HPGPG?crid=81F7RMWOFL7Y&dib=eyJ2IjoiMSJ9.NsQYdChZ8SHE_ZUbiq6oPeWe6tgmSJugBhvEKPrN5_klX63DlDkZIxzQzxOV3iWrY4GjXYOfppS6TTZQ-qafELl_-Phg_nYt6E26pCGDpGds4C9Mi2QKoQKXwWCLWySzutsK2WgrgLtstGnqCL-ZIahHk53_fP71wTSmWtHwzsoKofJ-vFNQ2LhKUGNqfPSqLBRw7sADswNtfnlFMIAAhFNM56d6LmphCc8uOpjHAkg1LpL9LPX8SsyZiDHKZyTKbrahuXzMDtf555ko6mkdbVyCH8Vfou-3Dtv0Fk3ZZ00.vy4PVrFXhOjHFiAkJsIMndSCRAg02XZXFLl_eYAQAqY&dib_tag=se&keywords=segway%2Bg30%2BP&qid=1750175839&s=sporting-goods&sprefix=segway%2Bg30%2B%2Csporting%2C590&sr=1-4&th=1&linkCode=sl1&tag=escooterprice-20&linkId=f447a9ccc0252d5b9437d56276a9b915&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 31,
+    brand: "Hiboy",
+    name: "MAX Pro Electric Scooter, 46.6 Mi Long Range, 22 MPH Power by 650W MAX Motor",
+    image: "https://m.media-amazon.com/images/I/61pW3GEUm9L._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "46",
+    charging: "8",
+    maxpower: 1000,
+    topspeed: 22,
+    weightlimit: 265,
+    weight: 0,
+    rating: "⭐4.3 (741+)",
+    priceRange: 679,
+    orderUrl: "https://www.amazon.com/Hiboy-MAX-Pro-Pneumatic-Suspension/dp/B0BZCP67SD?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-4&th=1&linkCode=ll1&tag=escooterprice-20&linkId=aa8bcb9e668c3d42e6cfffeb5bcfd490&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 32,
+    brand: "Gotrax",
+    name: "ARES G4 Series Electric Scooter for Adults, 500-650W Motor 10'/11' Shock Absorbing Tires, Max 25-45 Miles Long Range",
+    image: "https://m.media-amazon.com/images/I/61cwiELr38L._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "25",
+    charging: "6",
+    maxpower: 1000,
+    topspeed: 28,
+    weightlimit: 264,
+    weight: 0,
+    rating: "⭐4.3 (2165+)",
+    priceRange: 1099,
+    orderUrl: "https://www.amazon.com/Gotrax-Off-Road-Suspension-Quick-Release-Certified/dp/B0CVXKS6NN?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-12&th=1&linkCode=ll1&tag=escooterprice-20&linkId=18fe696b68f14a2abbded2e5e423b804&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 33,
+    brand: "ETWOW",
+    name: "GTS Gray Electric Scooter The Ultimate Commuter Scooter. Lightweight (All Models Under 30 lbs)",
+    image: "https://m.media-amazon.com/images/I/61VgpmChciL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "28",
+    charging: "4",
+    maxpower: 700,
+    topspeed: 28.6,
+    weightlimit: 275,
+    weight: 0,
+    rating: "⭐4.2 (205+)",
+    priceRange: 998,
+    orderUrl: "https://www.amazon.com/ETWOW-GTS-Lightweight-Ultra-Portable-Handlebars/dp/B0CKXYTGGQ?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-22&th=1&linkCode=ll1&tag=escooterprice-20&linkId=bf5b12093fdb5d6a983ad7b57450a0b9&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 34,
+    brand: "Segway",
+    name: "Ninebot F3 Electric Scooter, Up to 20 MPH, 44-Mile Range, Self-Sealing Tubeless Tires",
+    image: "https://m.media-amazon.com/images/I/61AU16T5LLL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "44",
+    charging: "8",
+    maxpower: 1000,
+    topspeed: 20,
+    weightlimit: 265,
+    weight: 0,
+    rating: "⭐4.4 (1486+)",
+    priceRange: 849,
+    orderUrl: "https://www.amazon.com/Segway-Hydraulic-Elastomer-Suspension-Certified/dp/B0DZ1P8M85?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.2pAz7iX8-2ybJJ7HC4RVeEm8DHZmU7opmhyhgdEVO9ZH2PGeFWvKRGUqWjMH4JStztlokQUhoIBymLKfm1qNidVgjiQU4wAr0zYr3Ag2SMA.E-9Lz41JGJTOMatq0aGtPTaPAlsPev5PUfNaE5EsMwM&dib_tag=se&keywords=electric%2Bscooter&qid=1750524254&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-34&xpid=KMLeeEVrEpSdH&th=1&linkCode=ll1&tag=escooterprice-20&linkId=dc8e50ce2e8c5f8500d1150ac4c7c528&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 35,
+    brand: "Gotrax",
+    name: "Electric Scooter for Adult, 350/500W Motor, Max 18/38 Mile and 20MPH Speed",
+    image: "https://m.media-amazon.com/images/I/611L6fDe0DL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "38",
+    charging: "",
+    maxpower: 500,
+    topspeed: 20,
+    weightlimit: 264,
+    weight: 0,
+    rating: "⭐4.1 (+)",
+    priceRange: 929,
+    orderUrl: "https://www.amazon.com/Gotrax-Eclipse-Ultra-Saddle-Suspension/dp/B0C1SWJ5NF?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.jMD6DlYzI4kBTW352Vcg2Hj5r_EQE74KVnjvR4W9LBWWKmzOh0qwof4gH_K5w0pT9YDU8Fyypi9r6w8C1fv5VZ47trIOKcsEUignjIuKAhmuJ9jq7YNoqc139geu8Hy5HmIXF7BHai3227d8ZVuXnO5KCoPJjmvTOgMdAEpYvcxkaIy9NOZCWvc8YvypY76bpEF-ytG8i7JPxtIFMFBVjws8mbfe47zD1sX7YWOI9_EOYLYwRz2wLEE7ulaCVAK1.f7aGkYhwK8Al-Auc1gcrXyodVEoC-5OLkiNqXDB9tXQ&dib_tag=se&keywords=electric%2Bscooter&qid=1750524254&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-42&xpid=KMLeeEVrEpSdH&th=1&linkCode=ll1&tag=escooterprice-20&linkId=19d5d47d31c377b08b11265f2596b2bb&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    id: 36,
+    brand: "Hiboy",
+    name: "S2 Pro/S2 MAX Electric Scooter, 500W Motor, 10' Solid Tires, 25-40.4 Miles Range",
+    image: "https://m.media-amazon.com/images/I/61rwBxp50qL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "40",
+    charging: "6",
+    maxpower: 500,
+    topspeed: 19,
+    weightlimit: 220,
+    weight: 0,
+    rating: "⭐4.4 (6270+)",
+    priceRange: 649,
+    orderUrl: "https://www.amazon.com/Hiboy-S2-MAX-Electric-Commuting/dp/B09BR8CCSS?content-id=amzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923%3Aamzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923&crid=1VRUKCENY207P&cv_ct_cx=emove%2Bcruiser%2Bv2&keywords=emove%2Bcruiser%2Bv2&pd_rd_i=B09BR8CCSS&pd_rd_r=754ca26a-76cd-48a7-a991-b218358c718a&pd_rd_w=OwFxV&pd_rd_wg=ursRq&pf_rd_p=bf491aa8-b307-4a36-bb91-bc4611147923&pf_rd_r=2Q26XCYJPDCWKR94HKK1&qid=1750526633&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=EMOVE%2BCruiser%2Caps%2C659&sr=1-4-baa1f287-65d3-41a3-a655-8bbba0531537-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=escooterprice-20&linkId=f8bf5f5d5fd00fdeb9b0c4716f1814f9&language=en_US&ref_=as_li_ss_tl"
   }
+
 
 
 ]
@@ -443,12 +600,12 @@ function renderProducts(products) {
             </div>
           </div>
           <div class="description">
-           <span><strong>${p.brand} ${p.name}</strong></span>
+           <span><strong>${p.id}${p.brand} ${p.name}</strong></span>
             <table><tbody>
               <tr><th scope="row">Max Distance</th><td>${p.distance} Miles</td></tr>
-              <tr><th scope="row">Charging Time</th><td>${p.charging} Hours</td></tr>
               <tr><th scope="row">Max Power</th><td>${p.maxpower} W</td></tr>
               <tr><th scope="row">Top Speed</th><td>${p.topspeed} MPH</td></tr>
+               <tr><th scope="row">Charging Time</th><td>${p.charging} Hours</td></tr>
               <tr><th scope="row">Rating</th><td>${p.rating}</td></tr>
             </tbody></table>
             <a class="order" href="${p.orderUrl}" target="_blank" rel="noopener noreferrer"><span class="bi bi-amazon me-2"> Order Now   </span><strong>$${p.priceRange}</strong></a>
@@ -465,6 +622,7 @@ function renderProducts(products) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+  products.sort(() => Math.random() - 0.5);
   renderProducts(products);
   const maxpowerFilter = document.getElementById('maxpower-filter');
   const brandFilter = document.getElementById('brand-filter');
@@ -506,13 +664,18 @@ document.addEventListener('DOMContentLoaded', function() {
     if (weightlimitValue) {
   filtered = filtered.filter(p => parseInt(p.weightlimit) >= parseInt(weightlimitValue));
 }
-if (sortValue === "asc") {
+
+if (sortValue === "price-asc") {
     filtered.sort((a, b) => a.priceRange - b.priceRange);
-  } else if (sortValue === "desc") {
+} else if (sortValue === "price-desc") {
     filtered.sort((a, b) => b.priceRange - a.priceRange);
-  }else {
-    filtered.sort((a, b) => a.id - b.id);
-  }
+} else if (sortValue === "power-asc") {
+    filtered.sort((a, b) => a.maxpower - b.maxpower);
+} else if (sortValue === "power-desc") {
+    filtered.sort((a, b) => b.maxpower - a.maxpower);
+} else {
+    filtered.sort(() => Math.random() - 0.5);
+}
 
 renderProducts(filtered);
   }
