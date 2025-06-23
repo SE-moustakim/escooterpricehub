@@ -509,7 +509,7 @@ const products = [
     topspeed: 28,
     weightlimit: 264,
     weight: 0,
-    rating: "⭐4.3 (2165+)",
+    rating: "⭐4.2 (2165+)",
     priceRange: 1099,
     orderUrl: "https://www.amazon.com/Gotrax-Off-Road-Suspension-Quick-Release-Certified/dp/B0CVXKS6NN?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-12&th=1&linkCode=ll1&tag=escooterprice-20&linkId=18fe696b68f14a2abbded2e5e423b804&language=en_US&ref_=as_li_ss_tl"
   },
@@ -576,6 +576,70 @@ const products = [
     rating: "⭐4.4 (6270+)",
     priceRange: 649,
     orderUrl: "https://www.amazon.com/Hiboy-S2-MAX-Electric-Commuting/dp/B09BR8CCSS?content-id=amzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923%3Aamzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923&crid=1VRUKCENY207P&cv_ct_cx=emove%2Bcruiser%2Bv2&keywords=emove%2Bcruiser%2Bv2&pd_rd_i=B09BR8CCSS&pd_rd_r=754ca26a-76cd-48a7-a991-b218358c718a&pd_rd_w=OwFxV&pd_rd_wg=ursRq&pf_rd_p=bf491aa8-b307-4a36-bb91-bc4611147923&pf_rd_r=2Q26XCYJPDCWKR94HKK1&qid=1750526633&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=EMOVE%2BCruiser%2Caps%2C659&sr=1-4-baa1f287-65d3-41a3-a655-8bbba0531537-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=escooterprice-20&linkId=f8bf5f5d5fd00fdeb9b0c4716f1814f9&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 37,
+    brand: "Gotrax",
+    name: "G4 Series Electric Scooter for Adults, 500-650W Motor 10'/11' Shock Absorbing Tires, Max 25-45 Miles Long Range",
+    image: "https://m.media-amazon.com/images/I/61Va3LZlihL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "45",
+    charging: "",
+    maxpower: 1300,
+    topspeed: 38,
+    weightlimit: 330,
+    weight: 0,
+    rating: "⭐4.3 (2166+)",
+    priceRange: 2199,
+    orderUrl: "https://www.amazon.com/Gotrax-Odyssey-Electric-Suspensions-Electronic/dp/B0C3RFBFFW?crid=493AD62FY0X2&dib=eyJ2IjoiMSJ9.fAqcHI5EGPFtTBObCkDvdA1mL1Q3CpudJa6wNHj25BnG04BfcbF-UtMz-xp_6YcC-XP3NWpBgM0VoBhEWdk4X0wJLuI4WEQ58P6B-1NgSFW8aS0_RUssbAAcCWq7oQruifeUv-bMVVpe8lRUjba8v6qu-_d3ZZ3Y70mPvmsIjWThv-oX32Q5FASYfWxjmFubCO-N_ElXaP2ceEKVEDGKzDt1BodG1utvqtFDfB18nimJqVDpiA3m7vhSOyM6hMRxipdJrTNaTzctvovak9XZPr6Icbnlp6MnrfwBjagfRlU.dOmv3ZQHEQFlaJuYH_hfciv2VE_j5OzzFj04VqkOyJs&dib_tag=se&keywords=electric%2Bscooter&qid=1750632623&sprefix=e%2Caps%2C455&sr=8-31&th=1&linkCode=ll1&tag=escooterprice-20&linkId=3a9b8ac847b346b5999b0d64f8bf292f&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 38,
+    brand: "Segway",
+    name: "Ninebot Max G3 Electric Scooter, 28 mph Top Speed w/ 50 Miles Max Range, 2000W Peak Motor",
+    image: "https://m.media-amazon.com/images/I/51DOweFsQ6L._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "50",
+    charging: "3.5",
+    maxpower: 2000,
+    topspeed: 28,
+    weightlimit: 286,
+    weight: 0,
+    rating: "⭐4.7 (59+)",
+    priceRange: 1698,
+    orderUrl: "https://www.amazon.com/Segway-Electric-Hydraulic-Suspension-Certified/dp/B0DSMQJX1X?crid=2FRHTHO2TVD16&dib=eyJ2IjoiMSJ9.pO3TFLA5Y5VNcROlcVmm8bafv4A-VYREoEVfaX6qKGp4asOZDwO_tiJOY5iaO6VTx8q_XJILGYIWm72OvHlGzxLV3XdkFUhp9D76iLmBgVvTkJq8_AqK9d4va_9YrAyEwsnDUWyJDUzzACVk2fN4dqPdxV9B4BlA6r3dE5YXCfP6Mofqpl-qV81tIgYaTckfpH0vz8MkpDCi6bd69x9rlQe-aNuk-lSrAEJCRFnmx1j1HJGr40DaqUD9gxgAAliSmRfkD-VD2BEbffkKzwZwvrymeSJX8Cu_yiQz8TIzT5s.KS6IT4bFHjEK-IFIZv5a8H27fEch18o8S3lu8Osh_0U&dib_tag=se&keywords=electric+scooter&qid=1750717687&sprefix=ele%2Caps%2C566&sr=8-11&linkCode=ll1&tag=escooterprice-20&linkId=bef2e05e6590a957803d1c40d59687e0&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 39,
+    brand: "Kugookirin",
+    name: "G4/G2 Electric Scooter for Adults with Seat, 47 Miles Range, 43MPH Speed 2000W Powerful Motor",
+    image: "https://m.media-amazon.com/images/I/619RoNDNT-L._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "47",
+    charging: "5",
+    maxpower: 2000,
+    topspeed: 43,
+    weightlimit: 330,
+    weight: 0,
+    rating: "⭐4.2 (214+)",
+    priceRange: 949,
+    orderUrl: "https://www.amazon.com/Electric-Powerful-Off-Road-Foldable-Suspension/dp/B0CHYVXKMB?crid=2GZMSTTRS82XT&dib=eyJ2IjoiMSJ9.KpkDK5Urb8W5dSHo3RnBdgoiH80GtuedIARZ4nK0n3r7j_pYtB0Ov8SzMpRRJKVgvBtQVRIttG0FIg0DXoYj78hjQVKdYWXgQfrgMft-4f9y8ONWvD9rBmihZGJwPO9KieVAkKihXHCN7rU5tv0UupchVnMLCD5dA5pGQiTZpjb_OgzsOVdV2DlnYlYam1BHR1Z78gpDt1yK08gNA2Bgnln1lFKSGSXBGn5_eWyRUY2jx76RtNnaT33HVa0QF_nXKGLvXO9B8YvKxXOY-evQmIUBHUXBz-_5G0QZXdTg9RU.c57StLbMQKUEcBPceF-ZRk43JBysoIsSrWO0ROClI60&dib_tag=se&keywords=kugoo%2Belectric%2Bscooter&qid=1750718318&sprefix=kugoo%2Caps%2C517&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=escooterprice-20&linkId=49c9d4020b3b9cb9870c422b3b04ab82&language=en_US&ref_=as_li_ss_tl"
+  },
+    {
+    id: 40,
+    brand: "Kugookirin",
+    name: "G3PRO/G4 Electric Scooter for Adults, 2400W Powerful Motor Up to 40MPH",
+    image: "https://m.media-amazon.com/images/I/619OsZl72LL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "49",
+    charging: "",
+    maxpower: 2400,
+    topspeed: 40,
+    weightlimit: 264,
+    weight: 0,
+    rating: "⭐4.1 (76+)",
+    priceRange: 1299,
+    orderUrl: "https://www.amazon.com/G3Pro-Electric-Portable-Capacity-Foldable/dp/B0C3HHDMVP?crid=2GZMSTTRS82XT&dib=eyJ2IjoiMSJ9.NVxuFFVCj3DUBZHIIq5PEVHRb9VBlSUgbN-ELolxTRPmESxg3-oJ0O2i0mlV79RQ8x2xk8WX-D5oOl3T04AHB6e9UOlOnh1tvBurrcovKrgOim0yH4tN-DJ9ShmMiplKY48037DOo7FJPkmWdctYfOl2evuaBXKMsFjlGMPgqkOeZ2SLm-tbTdzQCVA7_trzvBRPGqVQksOtE_VZ-ESHIWuef1Ojn8lIfaZRmElfkWJlV2KBtoBsVqIqphylEzPXjlIJlmmVPvF9Q5lWpT5SvTRaDS_wQUn24Le1AeGNQvc.RP5KrOb8DSBCYhUIVa__7ck-4s4xYKh9fbM4N9gVrdo&dib_tag=se&keywords=kugoo%2Belectric%2Bscooter&qid=1750718747&sprefix=kugoo%2Caps%2C517&sr=8-6&th=1&linkCode=ll1&tag=escooterprice-20&linkId=efad2fc5f0ca45ddc2a0e509e20bba21&language=en_US&ref_=as_li_ss_tl"
   }
 
 
@@ -600,7 +664,7 @@ function renderProducts(products) {
             </div>
           </div>
           <div class="description">
-           <span><strong>${p.brand} ${p.name}</strong></span>
+           <span><strong>${p.id}${p.brand} ${p.name}</strong></span>
             <table><tbody>
               <tr><th scope="row">Max Distance</th><td>${p.distance} Miles</td></tr>
               <tr><th scope="row">Max Power</th><td>${p.maxpower} W</td></tr>
