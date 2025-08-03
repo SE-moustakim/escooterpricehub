@@ -744,7 +744,7 @@ function renderProducts(products) {
             </div>
           </div>
           <div class="description">
-           <span><strong>${p.id}${p.brand} ${p.name}</strong></span>
+           <span><strong>${p.brand} ${p.name}</strong></span>
             <table><tbody>
               <tr><th scope="row">Max Distance</th><td>${p.distance} Miles</td></tr>
               <tr><th scope="row">Max Power</th><td>${p.maxpower} W</td></tr>
@@ -850,3 +850,4 @@ renderProducts(filtered);
 });
 if (sortPrice) sortPrice.addEventListener('change', applyFilters);
 });
+
