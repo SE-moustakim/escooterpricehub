@@ -9,11 +9,11 @@ const products = [
     charging: "4",
     maxpower: 350,
     topspeed: 19,
-    weightlimit: 264,
+    weightlimit: 169,
     weight: 31,
     rating: "⭐4.4 (1088+)",
     priceRange: 199,
-    orderUrl: "https://www.amazon.com/MAXSHOT-Electric-Scooter-Suspension-Escooter/dp/B0D8JG4K75?th=1"
+    orderUrl: "https://amzn.to/4ohF9aD"
   },
  {
     id: 2,
@@ -29,7 +29,7 @@ const products = [
     weight: 26,
     rating: "⭐4.3 (849+)",
     priceRange: 179,
-    orderUrl: "https://www.amazon.com/VOLPAM-Electric-Scooter-Scooter-8-5-12Miles-350W/dp/B0DQQ2B6DZ"
+    orderUrl: "https://amzn.to/452O3S5"
   },
    {
     id: 3,
@@ -45,7 +45,7 @@ const products = [
     weight: 48,
     rating: "⭐4.1 (438+)",
     priceRange: 1198,
-    orderUrl: "https://www.amazon.com/dp/B0DD7F9RPH?th=1"
+    orderUrl: "https://amzn.to/44YnvBo"
   },
      {
     id: 4,
@@ -61,7 +61,7 @@ const products = [
     weight: 46,
     rating: "⭐4.0 (33+)",
     priceRange: 1099,
-    orderUrl: "https://www.amazon.com/Apollo-Electric-Suspension-Self-Healing-Lighting/dp/B0D3M8CYYG"
+    orderUrl: "https://amzn.to/40NsmTq"
   },
      {
     id: 5,
@@ -77,7 +77,7 @@ const products = [
     weight: 26,
     rating: "⭐4.4 (193+)",
     priceRange: 279,
-    orderUrl: "https://www.amazon.com/Electric-Scooter-10Tires-Foldable-H5-187Wh-350W/dp/B0F24FNRG4"
+    orderUrl: "https://amzn.to/44ZKKeh"
   },
 
   {
@@ -94,7 +94,7 @@ const products = [
     weight: 32,
     rating: "⭐4.5 (672+)",
     priceRange: 259,
-    orderUrl: "https://www.amazon.com/5TH-WHEEL-Electric-Scooter-Signals/dp/B0C36HLS1B"
+    orderUrl: "https://amzn.to/47jhfWa"
   },
 
     {
@@ -111,7 +111,7 @@ const products = [
     weight: 30,
     rating: "⭐4.4 (1058+)",
     priceRange: 199,
-    orderUrl: "https://www.amazon.com/Roinside-Electric-Scooter-Adults-Scooter/dp/B0D5B9LG2T"
+    orderUrl: "https://amzn.to/4lRNCjk"
   },
      {
     id: 8,
@@ -127,7 +127,7 @@ const products = [
     weight: 0,
     rating: "⭐4.6 (199+)",
     priceRange: 279,
-    orderUrl: "https://www.amazon.com/Electric-Scooter-Foldable-Commuting-H7-20miles-19mph/dp/B0F6NGNVDT"
+    orderUrl: "https://amzn.to/4fh32eu"
   },
   {
     id: 9,
@@ -143,7 +143,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (337+)",
     priceRange: 189,
-    orderUrl: "https://www.amazon.com/Qlaway-Scooter-350W-Motorized-Foldable/dp/B0DSDSXN9Y"
+    orderUrl: "https://amzn.to/4mwAWyt"
   },
   {
     id: 10,
@@ -159,7 +159,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (278+)",
     priceRange: 249,
-    orderUrl: "https://www.amazon.com/NAVIC-Electric-Scooter-Suspension-Escooter/dp/B0DR7TQJZ1"
+    orderUrl: "https://amzn.to/3IW29vX"
   },
    {
     id: 11,
@@ -175,7 +175,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (709+)",
     priceRange: 169,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Commuting-Control/dp/B0D1QNPB8Y"
+    orderUrl: "https://amzn.to/452OwUl"
   },
       {
     id: 12,
@@ -191,7 +191,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (170+)",
     priceRange: 209,
-    orderUrl: "https://www.amazon.com/INVANTI-Electric-Scooter-Suspension-Foldable/dp/B0DGDGLP94"
+    orderUrl: "https://amzn.to/3IWAcUz"
   },
    {
     id: 13,
@@ -207,7 +207,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (553+)",
     priceRange: 519,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Adults-Motor/dp/B0BLWBXTBX"
+    orderUrl: "https://amzn.to/3J0eu1Y"
   },
      {
     id: 14,
@@ -223,7 +223,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (460+)",
     priceRange: 379,
-    orderUrl: "https://www.amazon.com/NIU-Electric-Scooter-Adults-Suspension/dp/B0DBTM46NK"
+    orderUrl: "https://amzn.to/3HfZlJm"
   },
   {
     id: 15,
@@ -239,7 +239,7 @@ const products = [
     weight: 0,
     rating: "⭐3.7 (156+)",
     priceRange: 799,
-    orderUrl: "https://www.amazon.com/dp/B0CW2XDHQJ"
+    orderUrl: "https://amzn.to/3HgpBU4"
   },
     {
     id: 16,
@@ -255,7 +255,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (3862+)",
     priceRange: 329,
-    orderUrl: "https://www.amazon.com/Hiboy-Electric-Scooter-Long-Range-Commuting/dp/B086JHCJTX"
+    orderUrl: "https://amzn.to/45dE37e"
   },
     {
     id: 17,
@@ -271,7 +271,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (251+)",
     priceRange: 999,
-    orderUrl: "https://www.amazon.com/Electric-Quadruple-Absorption-350W-Commuting/dp/B0CYX4RQS4"
+    orderUrl: "https://amzn.to/3UeG9Pc"
   },
       {
     id: 18,
@@ -287,7 +287,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (460+)",
     priceRange: 839,
-    orderUrl: "https://www.amazon.com/NIU-300P-All-Terrain-Suspension-Pneumatic/dp/B0D86LFCSG"
+    orderUrl: "https://amzn.to/4laGkGf"
   },
      {
     id: 19,
@@ -303,7 +303,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2123+)",
     priceRange: 369,
-    orderUrl: "https://www.amazon.com/Segway-Electric-Suspension-Shock-Absorbing-Certified/dp/B0F62SVY89"
+    orderUrl: "https://amzn.to/41rTveP"
   },
     {
     id: 20,
@@ -319,7 +319,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (1116+)",
     priceRange: 239,
-    orderUrl: "https://amzn.to/4kNhb56"
+    orderUrl: "https://amzn.to/3U8AbiX"
   },
   {
     id: 21,
@@ -335,7 +335,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (170+)",
     priceRange: 599,
-    orderUrl: "https://www.amazon.com/Electric-Scooter-Folding-Scooter-Suspension/dp/B0DR2Z1F19"
+    orderUrl: "https://amzn.to/3UbfLFT"
   },
     {
     id: 22,
@@ -351,7 +351,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (157+)",
     priceRange: 299,
-    orderUrl: "https://www.amazon.com/Hurtle-Folding-Electric-Scooter-Scooter/dp/B0BQ4SDL38"
+    orderUrl: "https://amzn.to/3UN6Rys"
   },
      {
     id: 23,
@@ -367,7 +367,7 @@ const products = [
     weight: 0,
     rating: "⭐4.5 (74+)",
     priceRange: 914,
-    orderUrl: "https://www.amazon.com/Segway-Electric-Scooter-Suspension-Certified/dp/B0DDTFMPS6"
+    orderUrl: "https://amzn.to/4fmqabt"
   },
       {
     id: 24,
@@ -383,7 +383,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2160+)",
     priceRange: 549,
-    orderUrl: "https://www.amazon.com/dp/B093T2Y1WV?th=1"
+    orderUrl: "https://amzn.to/4fqrYk0"
   },
    {
     id: 25,
@@ -399,7 +399,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (6265+)",
     priceRange: 467,
-    orderUrl: "https://www.amazon.com/Hiboy-Pro-Electric-Scooter-Long-Range/dp/B086N23QBD"
+    orderUrl: "https://amzn.to/46ApKMo"
   },
   {
     id: 26,
@@ -415,7 +415,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (1283+)",
     priceRange: 199,
-    orderUrl: "https://www.amazon.com/Hiboy-Pro-Electric-Scooter-Long-Range/dp/B086N23QBD"
+    orderUrl: "https://amzn.to/40R1CBr"
   },
   {
     id: 27,
@@ -431,26 +431,10 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (3864+)",
     priceRange: 549,
-    orderUrl: "https://www.amazon.com/Hiboy-Electric-Scooter-500W-Commuting/dp/B0F2Z8NHYW"
+    orderUrl: "https://amzn.to/3IZZ1Py"
   },
-    {
+  {
     id: 28,
-    brand: "Gotrax",
-    name: "GXL V2 Electric Scooter, 8.5' Solid Tire, Max 9 Mile and 15.5Mph Speed Power by 250W Motor",
-    image: "https://m.media-amazon.com/images/I/61PydAGLjQL._AC_SX679_.jpg",
-    alt: "Bulova Marine Star Automatic Diver",
-    distance: "9",
-    charging: "4",
-    maxpower: 300,
-    topspeed: 15.5,
-    weightlimit: 220,
-    weight: 0,
-    rating: "⭐4.2 (13241+)",
-    priceRange: 261,
-    orderUrl: "https://www.amazon.com/GOTRAX-GXL-Commuting-Electric-Scooter/dp/B07K9MB6X1"
-  },
-   {
-    id: 29,
     brand: "iScooter",
     name: "iX7 Pro Electric Scooter, 40/43/50 Miles Long Range & 28/38 MPH Top Speed E Scooter",
     image: "https://m.media-amazon.com/images/I/719a6pLrfGL._AC_SX679_.jpg",
@@ -463,10 +447,10 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (112+)",
     priceRange: 899,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Off-Road-Signals/dp/B0DFLVPZ32"
+    orderUrl: "https://amzn.to/4ol6vwD"
   },
-   {
-    id: 30,
+  {
+    id: 29,
     brand: "Segway",
     name: "G30P Ninebot MAX Electric Kick Scooter w/Powerful Motor, Long Miles Range, 18.6 & 22mph Top Speed",
     image: "https://m.media-amazon.com/images/I/51+yUFaO8SL._AC_SX679_.jpg",
@@ -479,10 +463,10 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (271+)",
     priceRange: 699,
-    orderUrl: "https://www.amazon.com/Segway-Ninebot-Electric-KickScooter-Suspension/dp/B0D83HPGPG"
+    orderUrl: "https://amzn.to/4oflRmx"
   },
-    {
-    id: 31,
+  {
+    id: 30,
     brand: "Hiboy",
     name: "MAX Pro Electric Scooter, 46.6 Mi Long Range, 22 MPH Power by 650W MAX Motor",
     image: "https://m.media-amazon.com/images/I/61pW3GEUm9L._AC_SX679_.jpg",
@@ -495,10 +479,10 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (741+)",
     priceRange: 679,
-    orderUrl: "https://www.amazon.com/Hiboy-MAX-Pro-Pneumatic-Suspension/dp/B0BZCP67SD"
+    orderUrl: "https://amzn.to/4lYbMZs"
   },
-    {
-    id: 32,
+  {
+    id: 31,
     brand: "Gotrax",
     name: "ARES G4 Series Electric Scooter for Adults, 500-650W Motor 10'/11' Shock Absorbing Tires, Max 25-45 Miles Long Range",
     image: "https://m.media-amazon.com/images/I/61cwiELr38L._AC_SX679_.jpg",
@@ -511,10 +495,10 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (2165+)",
     priceRange: 1099,
-    orderUrl: "https://www.amazon.com/Gotrax-Off-Road-Suspension-Quick-Release-Certified/dp/B0CVXKS6NN"
+    orderUrl: "https://amzn.to/4mnwPV0"
   },
-    {
-    id: 33,
+  {
+    id: 32,
     brand: "ETWOW",
     name: "GTS Gray Electric Scooter The Ultimate Commuter Scooter. Lightweight (All Models Under 30 lbs)",
     image: "https://m.media-amazon.com/images/I/61VgpmChciL._AC_SX679_.jpg",
@@ -527,10 +511,10 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (205+)",
     priceRange: 998,
-    orderUrl: "https://www.amazon.com/ETWOW-GTS-Lightweight-Ultra-Portable-Handlebars/dp/B0CKXYTGGQ"
+    orderUrl: "https://amzn.to/3HiUPtD"
   },
     {
-    id: 34,
+    id: 33,
     brand: "Segway",
     name: "Ninebot F3 Electric Scooter, Up to 20 MPH, 44-Mile Range, Self-Sealing Tubeless Tires",
     image: "https://m.media-amazon.com/images/I/61AU16T5LLL._AC_SX679_.jpg",
@@ -543,10 +527,10 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (1486+)",
     priceRange: 849,
-    orderUrl: "https://www.amazon.com/Segway-Hydraulic-Elastomer-Suspension-Certified/dp/B0DZ1P8M85"
+    orderUrl: "https://amzn.to/4fkXUWR"
   },
     {
-    id: 35,
+    id: 34,
     brand: "Gotrax",
     name: "Electric Scooter for Adult, 350/500W Motor, Max 18/38 Mile and 20MPH Speed",
     image: "https://m.media-amazon.com/images/I/611L6fDe0DL._AC_SX679_.jpg",
@@ -559,10 +543,10 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (+)",
     priceRange: 929,
-    orderUrl: "https://www.amazon.com/Gotrax-Eclipse-Ultra-Saddle-Suspension/dp/B0C1SWJ5NF"
+    orderUrl: "https://amzn.to/45bbetz"
   },
   {
-    id: 36,
+    id: 35,
     brand: "Hiboy",
     name: "S2 Pro/S2 MAX Electric Scooter, 500W Motor, 10' Solid Tires, 25-40.4 Miles Range",
     image: "https://m.media-amazon.com/images/I/61rwBxp50qL._AC_SX679_.jpg",
@@ -575,10 +559,10 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (6270+)",
     priceRange: 649,
-    orderUrl: "https://www.amazon.com/Hiboy-S2-MAX-Electric-Commuting/dp/B09BR8CCSS"
+    orderUrl: "https://amzn.to/4mobcnD"
   },
     {
-    id: 37,
+    id: 36,
     brand: "Gotrax",
     name: "G4 Series Electric Scooter for Adults, 500-650W Motor 10'/11' Shock Absorbing Tires, Max 25-45 Miles Long Range",
     image: "https://m.media-amazon.com/images/I/61Va3LZlihL._AC_SX679_.jpg",
@@ -591,10 +575,10 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2166+)",
     priceRange: 2199,
-    orderUrl: "https://www.amazon.com/Gotrax-Odyssey-Electric-Suspensions-Electronic/dp/B0C3RFBFFW"
+    orderUrl: "https://amzn.to/40MyOdn"
   },
     {
-    id: 38,
+    id: 37,
     brand: "Segway",
     name: "Ninebot Max G3 Electric Scooter, 28 mph Top Speed w/ 50 Miles Max Range, 2000W Peak Motor",
     image: "https://m.media-amazon.com/images/I/51DOweFsQ6L._AC_SX679_.jpg",
@@ -607,10 +591,10 @@ const products = [
     weight: 0,
     rating: "⭐4.7 (59+)",
     priceRange: 1698,
-    orderUrl: "https://www.amazon.com/Segway-Electric-Hydraulic-Suspension-Certified/dp/B0DSMQJX1X"
+    orderUrl: "https://amzn.to/40JVwTy"
   },
     {
-    id: 39,
+    id: 38,
     brand: "Kugookirin",
     name: "G4/G2 Electric Scooter for Adults with Seat, 47 Miles Range, 43MPH Speed 2000W Powerful Motor",
     image: "https://m.media-amazon.com/images/I/619RoNDNT-L._AC_SX679_.jpg",
@@ -623,10 +607,10 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (214+)",
     priceRange: 949,
-    orderUrl: "https://www.amazon.com/Electric-Powerful-Off-Road-Foldable-Suspension/dp/B0CHYVXKMB"
+    orderUrl: "https://amzn.to/4m7mKMA"
   },
     {
-    id: 40,
+    id: 39,
     brand: "Kugookirin",
     name: "G3PRO/G4 Electric Scooter for Adults, 2400W Powerful Motor Up to 40MPH",
     image: "https://m.media-amazon.com/images/I/619OsZl72LL._AC_SX679_.jpg",
@@ -639,10 +623,10 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (76+)",
     priceRange: 1299,
-    orderUrl: "https://www.amazon.com/G3Pro-Electric-Portable-Capacity-Foldable/dp/B0C3HHDMVP"
+    orderUrl: "https://amzn.to/3IZZyB2"
   },
     {
-    id: 41,
+    id: 40,
     brand: "NIU",
     name: "KQi Air Electric Scooter for Adults, Carbon Fiber Ultra Light 31 Miles Long Range, Max Speed 20MPH",
     image: "https://m.media-amazon.com/images/I/51Psx2IUjdL._AC_SX679_.jpg",
@@ -655,10 +639,10 @@ const products = [
     weight: 0,
     rating: "⭐929 (1749+)",
     priceRange: 929,
-    orderUrl: "https://www.amazon.com/NIU-KQi-Air-Electric-Certified/dp/B0CRVG965R"
+    orderUrl: "https://amzn.to/4l9R1J0"
   },
     {
-    id: 42,
+    id: 41,
     brand: "Kugookirin",
     name: "G3 Electric Scooter for Adults Powerful 1200W Motor Up to 31 mph, 10.5' Off Road Tires 52V/18Ah Large Capacity",
     image: "https://m.media-amazon.com/images/I/61ettG+hzXL._AC_SX679_.jpg",
@@ -671,10 +655,10 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (237+)",
     priceRange: 749,
-    orderUrl: "https://www.amazon.com/Electric-Kugookirin-G3-Powerful-Capacity/dp/B09VC7SPJB"
+    orderUrl: "https://amzn.to/3UK2Smm"
   },
     {
-    id: 43,
+    id: 42,
     brand: "iScooter",
     name: "iX8 Electric Scooter, 40/43/50 Miles Long Range & 28/38 MPH Top Speed E Scooter",
     image: "https://m.media-amazon.com/images/I/71x7lTyJ6rL._AC_SX679_.jpg",
@@ -687,10 +671,10 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (112+)",
     priceRange: 999,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Off-Road-Pneumatic-Scooters/dp/B0F6LPH2RB"
+    orderUrl: "https://amzn.to/3IYpRYr"
   },
     {
-    id: 44,
+    id: 43,
     brand: "Gotrax",
     name: "G4 Series Electric Scooter for Adults, 500-650W Motor 10'/11' Shock Absorbing Tires, Max 25-45 Miles Long Range",
     image: "https://m.media-amazon.com/images/I/61IPw+fVflL._AC_SX679_.jpg",
@@ -703,10 +687,10 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (2169+)",
     priceRange: 1299,
-    orderUrl: "https://www.amazon.com/Gotrax-Atlas-Electric-Pneumatic-Absorption/dp/B0DWSTZ3CP"
+    orderUrl: "https://amzn.to/4oqOYn1"
   },
     {
-    id: 45,
+    id: 44,
     brand: "Segway",
     name: "SuperScooter GT3, 31 MPH w/ 45-Mile Long Range, 2400W Peak Motor, Dual Hydraulic Suspension",
     image: "https://m.media-amazon.com/images/I/51jWjUEGMbL._AC_SX679_.jpg",
@@ -719,7 +703,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (183+)",
     priceRange: 1758,
-    orderUrl: "https://www.amazon.com/Segway-SuperScooter-Hydraulic-Suspension-Self-Sealing/dp/B0DRXSQMJH"
+    orderUrl: "https://amzn.to/3UKtgMU"
   }
 
 
@@ -744,7 +728,7 @@ function renderProducts(products) {
             </div>
           </div>
           <div class="description">
-           <span><strong>${p.brand} ${p.name}</strong></span>
+           <span><strong>${p.id}${p.brand} ${p.name}</strong></span>
             <table><tbody>
               <tr><th scope="row">Max Distance</th><td>${p.distance} Miles</td></tr>
               <tr><th scope="row">Max Power</th><td>${p.maxpower} W</td></tr>
@@ -850,4 +834,3 @@ renderProducts(filtered);
 });
 if (sortPrice) sortPrice.addEventListener('change', applyFilters);
 });
-
