@@ -13,7 +13,7 @@ const products = [
     weight: 31,
     rating: "⭐4.4 (1088+)",
     priceRange: 199,
-    orderUrl: "https://amzn.to/4473x5O"
+    orderUrl: "https://www.amazon.com/MAXSHOT-Electric-Scooter-Suspension-Escooter/dp/B0D8JG4K75?th=1"
   },
  {
     id: 2,
@@ -29,7 +29,7 @@ const products = [
     weight: 26,
     rating: "⭐4.3 (849+)",
     priceRange: 179,
-    orderUrl: "https://amzn.to/4kFlVtp"
+    orderUrl: "https://www.amazon.com/VOLPAM-Electric-Scooter-Scooter-8-5-12Miles-350W/dp/B0DQQ2B6DZ"
   },
    {
     id: 3,
@@ -45,7 +45,7 @@ const products = [
     weight: 48,
     rating: "⭐4.1 (438+)",
     priceRange: 1198,
-    orderUrl: "https://amzn.to/3HIDB90"
+    orderUrl: "https://www.amazon.com/dp/B0DD7F9RPH?th=1"
   },
      {
     id: 4,
@@ -61,7 +61,7 @@ const products = [
     weight: 46,
     rating: "⭐4.0 (33+)",
     priceRange: 1099,
-    orderUrl: "https://amzn.to/4l9Kwqa"
+    orderUrl: "https://www.amazon.com/Apollo-Electric-Suspension-Self-Healing-Lighting/dp/B0D3M8CYYG"
   },
      {
     id: 5,
@@ -77,7 +77,7 @@ const products = [
     weight: 26,
     rating: "⭐4.4 (193+)",
     priceRange: 279,
-    orderUrl: "https://amzn.to/4kSkoQT"
+    orderUrl: "https://www.amazon.com/Electric-Scooter-10Tires-Foldable-H5-187Wh-350W/dp/B0F24FNRG4"
   },
 
   {
@@ -94,7 +94,7 @@ const products = [
     weight: 32,
     rating: "⭐4.5 (672+)",
     priceRange: 259,
-    orderUrl: "https://amzn.to/4l1lAky"
+    orderUrl: "https://www.amazon.com/5TH-WHEEL-Electric-Scooter-Signals/dp/B0C36HLS1B"
   },
 
     {
@@ -111,7 +111,7 @@ const products = [
     weight: 30,
     rating: "⭐4.4 (1058+)",
     priceRange: 199,
-    orderUrl: "https://amzn.to/4lbq5Jy"
+    orderUrl: "https://www.amazon.com/Roinside-Electric-Scooter-Adults-Scooter/dp/B0D5B9LG2T"
   },
      {
     id: 8,
@@ -127,7 +127,7 @@ const products = [
     weight: 0,
     rating: "⭐4.6 (199+)",
     priceRange: 279,
-    orderUrl: "https://amzn.to/4e4vlMs"
+    orderUrl: "https://www.amazon.com/Electric-Scooter-Foldable-Commuting-H7-20miles-19mph/dp/B0F6NGNVDT"
   },
   {
     id: 9,
@@ -143,7 +143,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (337+)",
     priceRange: 189,
-    orderUrl: "https://amzn.to/45WWoHD"
+    orderUrl: "https://www.amazon.com/Qlaway-Scooter-350W-Motorized-Foldable/dp/B0DSDSXN9Y"
   },
   {
     id: 10,
@@ -159,7 +159,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (278+)",
     priceRange: 249,
-    orderUrl: "https://amzn.to/4kNfwfS"
+    orderUrl: "https://www.amazon.com/NAVIC-Electric-Scooter-Suspension-Escooter/dp/B0DR7TQJZ1"
   },
    {
     id: 11,
@@ -175,7 +175,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (709+)",
     priceRange: 169,
-    orderUrl: "https://amzn.to/3SVPmvb"
+    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Commuting-Control/dp/B0D1QNPB8Y"
   },
       {
     id: 12,
@@ -191,7 +191,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (170+)",
     priceRange: 209,
-    orderUrl: "https://amzn.to/4480xpT"
+    orderUrl: "https://www.amazon.com/INVANTI-Electric-Scooter-Suspension-Foldable/dp/B0DGDGLP94"
   },
    {
     id: 13,
@@ -207,7 +207,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (553+)",
     priceRange: 519,
-    orderUrl: "https://amzn.to/4l1ErvS"
+    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Adults-Motor/dp/B0BLWBXTBX"
   },
      {
     id: 14,
@@ -223,7 +223,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (460+)",
     priceRange: 379,
-    orderUrl: "https://www.amazon.com/NIU-Electric-Scooter-Adults-Suspension/dp/B0DBTM46NK?th=1&linkCode=ll1&tag=escooterprice-20&linkId=462d36c4478a8b6a83136df0941465b2&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/NIU-Electric-Scooter-Adults-Suspension/dp/B0DBTM46NK"
   },
   {
     id: 15,
@@ -239,7 +239,7 @@ const products = [
     weight: 0,
     rating: "⭐3.7 (156+)",
     priceRange: 799,
-    orderUrl: "https://amzn.to/45IM6Lp"
+    orderUrl: "https://www.amazon.com/dp/B0CW2XDHQJ"
   },
     {
     id: 16,
@@ -255,7 +255,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (3862+)",
     priceRange: 329,
-    orderUrl: "https://amzn.to/4n4MGcp"
+    orderUrl: "https://www.amazon.com/Hiboy-Electric-Scooter-Long-Range-Commuting/dp/B086JHCJTX"
   },
     {
     id: 17,
@@ -271,7 +271,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (251+)",
     priceRange: 999,
-    orderUrl: "https://amzn.to/43X1q4o"
+    orderUrl: "https://www.amazon.com/Electric-Quadruple-Absorption-350W-Commuting/dp/B0CYX4RQS4"
   },
       {
     id: 18,
@@ -287,7 +287,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (460+)",
     priceRange: 839,
-    orderUrl: "https://amzn.to/4n4EAQS"
+    orderUrl: "https://www.amazon.com/NIU-300P-All-Terrain-Suspension-Pneumatic/dp/B0D86LFCSG"
   },
      {
     id: 19,
@@ -303,7 +303,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2123+)",
     priceRange: 369,
-    orderUrl: "https://amzn.to/4e593uh"
+    orderUrl: "https://www.amazon.com/Segway-Electric-Suspension-Shock-Absorbing-Certified/dp/B0F62SVY89"
   },
     {
     id: 20,
@@ -335,7 +335,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (170+)",
     priceRange: 599,
-    orderUrl: "https://amzn.to/3FHhkYF"
+    orderUrl: "https://www.amazon.com/Electric-Scooter-Folding-Scooter-Suspension/dp/B0DR2Z1F19"
   },
     {
     id: 22,
@@ -351,7 +351,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (157+)",
     priceRange: 299,
-    orderUrl: "https://amzn.to/4jPsNmM"
+    orderUrl: "https://www.amazon.com/Hurtle-Folding-Electric-Scooter-Scooter/dp/B0BQ4SDL38"
   },
      {
     id: 23,
@@ -367,7 +367,7 @@ const products = [
     weight: 0,
     rating: "⭐4.5 (74+)",
     priceRange: 914,
-    orderUrl: "https://www.amazon.com/Segway-Electric-Scooter-Suspension-Certified/dp/B0DDTFMPS6?crid=IE8MU0N5NKTP&dib=eyJ2IjoiMSJ9.Tbdz-UHnJ4bz2lmfAojUDEIbLjlx5KukjawXOSRLLyZymrbySnPWVr26loynjdNZFYor8nW9K-teT59qPPBpfHKjTs7WzaWgmKHR-msiQQzeVfPS5rckSrwXhmf8dtu8sQyapgWktlEOIJo4JSXm51FDJGzVY3mJvQcIL0Cukliba-uHjmToOGzerV5TAr_xcSk-3TuuFrcAJdXIMu1G2UmAkYi9T-F91_X_fUEx4zFVJJ-MMkrRJ8MI-Z9oY1LQjJtmWv0XQ1pWFts2p7joqPpSRDpj1aMet_-VxooBgfk.6HDeWZK0zLZZlmDzobrzfEnYVPYUEG-7CFreh-tcVdc&dib_tag=se&keywords=segway+zt3+pro+electric+scooter&qid=1750506991&sprefix=Segway+ZT3+Pro+Electric+Scooter%2Caps%2C743&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=escooterprice-20&linkId=5507238df33712ead8ce1772b0f849f6&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Segway-Electric-Scooter-Suspension-Certified/dp/B0DDTFMPS6"
   },
       {
     id: 24,
@@ -383,7 +383,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2160+)",
     priceRange: 549,
-    orderUrl: "https://amzn.to/44hYIrw"
+    orderUrl: "https://www.amazon.com/dp/B093T2Y1WV?th=1"
   },
    {
     id: 25,
@@ -399,7 +399,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (6265+)",
     priceRange: 467,
-    orderUrl: "https://amzn.to/4l6TbJZ"
+    orderUrl: "https://www.amazon.com/Hiboy-Pro-Electric-Scooter-Long-Range/dp/B086N23QBD"
   },
   {
     id: 26,
@@ -415,7 +415,7 @@ const products = [
     weight: 0,
     rating: "⭐4.0 (1283+)",
     priceRange: 199,
-    orderUrl: "https://amzn.to/4kAQ6Sy"
+    orderUrl: "https://www.amazon.com/Hiboy-Pro-Electric-Scooter-Long-Range/dp/B086N23QBD"
   },
   {
     id: 27,
@@ -430,8 +430,8 @@ const products = [
     weightlimit: 220,
     weight: 0,
     rating: "⭐4.3 (3864+)",
-    priceRange: 467,
-    orderUrl: "https://amzn.to/4e5HeSC"
+    priceRange: 549,
+    orderUrl: "https://www.amazon.com/Hiboy-Electric-Scooter-500W-Commuting/dp/B0F2Z8NHYW"
   },
     {
     id: 28,
@@ -447,7 +447,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (13241+)",
     priceRange: 261,
-    orderUrl: "https://www.amazon.com/GOTRAX-GXL-Commuting-Electric-Scooter/dp/B07K9MB6X1?crid=3PDYYVCCZ2GNQ&dib=eyJ2IjoiMSJ9.xW9aSllHMHUm5DaiML85Huz2PcLlAaoI2kk4E3dWh0OS4bez2kVwHKH__9ZNstvpZGCtTN7bZ_AzH0gLlBE_9hPdKPNi86YpTu9s5thxG3HqztSuV_hhk-klRceF76mwxgCSRBXw1ypg_AJsKjOFBp7-53pfJVn-SibtYVh4IRRkLGNJVOgQBTK-We9Qs5FF0oNBuVWqr0gGzs7Anb228hxyr0-0bwDEg2SjeVSpwhMZTaEI7OU2KVoOmCtTd0I5wnLy6_sqPQLjs7BUsM61myvqXIcKONfIDf8eO8CVNIk.1ZtaXlcby28HyF2n_2qy5W8EVXcdyv4eR2fnnNpnhak&dib_tag=se&keywords=GXL%2BV2%2BElectric%2BScooter&qid=1750511707&s=sporting-goods&sprefix=gxl%2Bv2%2Belectric%2Bscooter%2Csporting%2C466&sr=1-1&th=1&linkCode=ll1&tag=escooterprice-20&linkId=c5cbe27af0604adbdb0f4703ae31807e&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/GOTRAX-GXL-Commuting-Electric-Scooter/dp/B07K9MB6X1"
   },
    {
     id: 29,
@@ -463,7 +463,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (112+)",
     priceRange: 899,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Off-Road-Signals/dp/B0DFLVPZ32?crid=EN59M6XFGZ9U&dib=eyJ2IjoiMSJ9.J_BOFCMlBrpALZCLAV_H6hMSgCGjUuCzbyK3WwjPLUJXWYCYLhUvxJSwG43GEURt-BPufoD5LywNEssSCh92BtDtE5eoPgyuQ-n_cAZ1Dyi5BYIig_MUyMgFhlaolOvM6QjO1h_3mUZ3u0WP9yNmhYM_blKrr7Jb3UPIitYSUpT55Eg-zNRRlARpU1GQxVAyobMX3fjcUyDyUybUyEzr2DxhubkP-MJlDua2k5z0rQ7KhmP105aH0rt-r04_K6HXdGUIdBwAlHmFxqsOVUeZK-QV2MzHe7Wxw6ZAp_qk93w.bkk536reIwaNKPEQKjjLSJ80wvYiZ_copbbZN5QNxBE&dib_tag=se&keywords=iX7%2BPro%2BElectric%2BScooter%2C%2B40%2F43%2F50%2BMiles%2BLong%2BRange&qid=1750177496&s=sporting-goods&sprefix=ix7%2Bpro%2Belectric%2Bscooter%2C%2B40%2F43%2F50%2Bmiles%2Blong%2Brange%2Csporting%2C819&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=escooterprice-20&linkId=819fb74f19511a0c3064ee6bc8b63f34&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/iScooter-Electric-Scooter-Off-Road-Signals/dp/B0DFLVPZ32"
   },
    {
     id: 30,
@@ -479,7 +479,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (271+)",
     priceRange: 699,
-    orderUrl: "https://www.amazon.com/Segway-Ninebot-Electric-KickScooter-Suspension/dp/B0D83HPGPG?crid=81F7RMWOFL7Y&dib=eyJ2IjoiMSJ9.NsQYdChZ8SHE_ZUbiq6oPeWe6tgmSJugBhvEKPrN5_klX63DlDkZIxzQzxOV3iWrY4GjXYOfppS6TTZQ-qafELl_-Phg_nYt6E26pCGDpGds4C9Mi2QKoQKXwWCLWySzutsK2WgrgLtstGnqCL-ZIahHk53_fP71wTSmWtHwzsoKofJ-vFNQ2LhKUGNqfPSqLBRw7sADswNtfnlFMIAAhFNM56d6LmphCc8uOpjHAkg1LpL9LPX8SsyZiDHKZyTKbrahuXzMDtf555ko6mkdbVyCH8Vfou-3Dtv0Fk3ZZ00.vy4PVrFXhOjHFiAkJsIMndSCRAg02XZXFLl_eYAQAqY&dib_tag=se&keywords=segway%2Bg30%2BP&qid=1750175839&s=sporting-goods&sprefix=segway%2Bg30%2B%2Csporting%2C590&sr=1-4&th=1&linkCode=sl1&tag=escooterprice-20&linkId=f447a9ccc0252d5b9437d56276a9b915&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Segway-Ninebot-Electric-KickScooter-Suspension/dp/B0D83HPGPG"
   },
     {
     id: 31,
@@ -495,7 +495,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (741+)",
     priceRange: 679,
-    orderUrl: "https://www.amazon.com/Hiboy-MAX-Pro-Pneumatic-Suspension/dp/B0BZCP67SD?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-4&th=1&linkCode=ll1&tag=escooterprice-20&linkId=aa8bcb9e668c3d42e6cfffeb5bcfd490&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Hiboy-MAX-Pro-Pneumatic-Suspension/dp/B0BZCP67SD"
   },
     {
     id: 32,
@@ -511,7 +511,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (2165+)",
     priceRange: 1099,
-    orderUrl: "https://www.amazon.com/Gotrax-Off-Road-Suspension-Quick-Release-Certified/dp/B0CVXKS6NN?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-12&th=1&linkCode=ll1&tag=escooterprice-20&linkId=18fe696b68f14a2abbded2e5e423b804&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Gotrax-Off-Road-Suspension-Quick-Release-Certified/dp/B0CVXKS6NN"
   },
     {
     id: 33,
@@ -527,7 +527,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (205+)",
     priceRange: 998,
-    orderUrl: "https://www.amazon.com/ETWOW-GTS-Lightweight-Ultra-Portable-Handlebars/dp/B0CKXYTGGQ?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.RUeLNa2p3OVSmW_JZEpQRls5U5RZ1h6GlmZZvEg872t7qAAfl1ElOfpzhwCbX8mVnhF4ZSKF4JkfSbLQajYj3lfE9ECdY-sCNGP_CKQ_MYTw03eT94XVTVr9jLz1b0MnGkqOvXjZEqxzohwsDN1kH2OKcm_Cc1nq5afNYJi-gjYuh_h2OJEVRW5DDv3LCuBUw2l-Jx8ceVujbmJQfbdb_UVsjxgxFvGIwlZhhg43rk8iUcnG72ugpqv1DL6mmlYI7yEWseHGlNDb0a-jQXIQe0ZfNrRXOmjzjHn7TDHhAq4.sTk4Sg-cCDcdnCXig4MGeaMfiBhre1M6Cr-xMa79CD0&dib_tag=se&keywords=electric%2Bscooter&qid=1750517327&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-22&th=1&linkCode=ll1&tag=escooterprice-20&linkId=bf5b12093fdb5d6a983ad7b57450a0b9&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/ETWOW-GTS-Lightweight-Ultra-Portable-Handlebars/dp/B0CKXYTGGQ"
   },
     {
     id: 34,
@@ -543,7 +543,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (1486+)",
     priceRange: 849,
-    orderUrl: "https://www.amazon.com/Segway-Hydraulic-Elastomer-Suspension-Certified/dp/B0DZ1P8M85?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.2pAz7iX8-2ybJJ7HC4RVeEm8DHZmU7opmhyhgdEVO9ZH2PGeFWvKRGUqWjMH4JStztlokQUhoIBymLKfm1qNidVgjiQU4wAr0zYr3Ag2SMA.E-9Lz41JGJTOMatq0aGtPTaPAlsPev5PUfNaE5EsMwM&dib_tag=se&keywords=electric%2Bscooter&qid=1750524254&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-34&xpid=KMLeeEVrEpSdH&th=1&linkCode=ll1&tag=escooterprice-20&linkId=dc8e50ce2e8c5f8500d1150ac4c7c528&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Segway-Hydraulic-Elastomer-Suspension-Certified/dp/B0DZ1P8M85"
   },
     {
     id: 35,
@@ -559,7 +559,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (+)",
     priceRange: 929,
-    orderUrl: "https://www.amazon.com/Gotrax-Eclipse-Ultra-Saddle-Suspension/dp/B0C1SWJ5NF?crid=1RBZH2I67AU2R&dib=eyJ2IjoiMSJ9.jMD6DlYzI4kBTW352Vcg2Hj5r_EQE74KVnjvR4W9LBWWKmzOh0qwof4gH_K5w0pT9YDU8Fyypi9r6w8C1fv5VZ47trIOKcsEUignjIuKAhmuJ9jq7YNoqc139geu8Hy5HmIXF7BHai3227d8ZVuXnO5KCoPJjmvTOgMdAEpYvcxkaIy9NOZCWvc8YvypY76bpEF-ytG8i7JPxtIFMFBVjws8mbfe47zD1sX7YWOI9_EOYLYwRz2wLEE7ulaCVAK1.f7aGkYhwK8Al-Auc1gcrXyodVEoC-5OLkiNqXDB9tXQ&dib_tag=se&keywords=electric%2Bscooter&qid=1750524254&refinements=p_36%3A60000-205000&rnid=386589011&s=sporting-goods&sprefix=ele%2Csporting%2C353&sr=1-42&xpid=KMLeeEVrEpSdH&th=1&linkCode=ll1&tag=escooterprice-20&linkId=19d5d47d31c377b08b11265f2596b2bb&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Gotrax-Eclipse-Ultra-Saddle-Suspension/dp/B0C1SWJ5NF"
   },
   {
     id: 36,
@@ -575,7 +575,7 @@ const products = [
     weight: 0,
     rating: "⭐4.4 (6270+)",
     priceRange: 649,
-    orderUrl: "https://www.amazon.com/Hiboy-S2-MAX-Electric-Commuting/dp/B09BR8CCSS?content-id=amzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923%3Aamzn1.sym.bf491aa8-b307-4a36-bb91-bc4611147923&crid=1VRUKCENY207P&cv_ct_cx=emove%2Bcruiser%2Bv2&keywords=emove%2Bcruiser%2Bv2&pd_rd_i=B09BR8CCSS&pd_rd_r=754ca26a-76cd-48a7-a991-b218358c718a&pd_rd_w=OwFxV&pd_rd_wg=ursRq&pf_rd_p=bf491aa8-b307-4a36-bb91-bc4611147923&pf_rd_r=2Q26XCYJPDCWKR94HKK1&qid=1750526633&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=EMOVE%2BCruiser%2Caps%2C659&sr=1-4-baa1f287-65d3-41a3-a655-8bbba0531537-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=escooterprice-20&linkId=f8bf5f5d5fd00fdeb9b0c4716f1814f9&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Hiboy-S2-MAX-Electric-Commuting/dp/B09BR8CCSS"
   },
     {
     id: 37,
@@ -591,7 +591,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (2166+)",
     priceRange: 2199,
-    orderUrl: "https://www.amazon.com/Gotrax-Odyssey-Electric-Suspensions-Electronic/dp/B0C3RFBFFW?crid=493AD62FY0X2&dib=eyJ2IjoiMSJ9.fAqcHI5EGPFtTBObCkDvdA1mL1Q3CpudJa6wNHj25BnG04BfcbF-UtMz-xp_6YcC-XP3NWpBgM0VoBhEWdk4X0wJLuI4WEQ58P6B-1NgSFW8aS0_RUssbAAcCWq7oQruifeUv-bMVVpe8lRUjba8v6qu-_d3ZZ3Y70mPvmsIjWThv-oX32Q5FASYfWxjmFubCO-N_ElXaP2ceEKVEDGKzDt1BodG1utvqtFDfB18nimJqVDpiA3m7vhSOyM6hMRxipdJrTNaTzctvovak9XZPr6Icbnlp6MnrfwBjagfRlU.dOmv3ZQHEQFlaJuYH_hfciv2VE_j5OzzFj04VqkOyJs&dib_tag=se&keywords=electric%2Bscooter&qid=1750632623&sprefix=e%2Caps%2C455&sr=8-31&th=1&linkCode=ll1&tag=escooterprice-20&linkId=3a9b8ac847b346b5999b0d64f8bf292f&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Gotrax-Odyssey-Electric-Suspensions-Electronic/dp/B0C3RFBFFW"
   },
     {
     id: 38,
@@ -607,7 +607,7 @@ const products = [
     weight: 0,
     rating: "⭐4.7 (59+)",
     priceRange: 1698,
-    orderUrl: "https://www.amazon.com/Segway-Electric-Hydraulic-Suspension-Certified/dp/B0DSMQJX1X?crid=2FRHTHO2TVD16&dib=eyJ2IjoiMSJ9.pO3TFLA5Y5VNcROlcVmm8bafv4A-VYREoEVfaX6qKGp4asOZDwO_tiJOY5iaO6VTx8q_XJILGYIWm72OvHlGzxLV3XdkFUhp9D76iLmBgVvTkJq8_AqK9d4va_9YrAyEwsnDUWyJDUzzACVk2fN4dqPdxV9B4BlA6r3dE5YXCfP6Mofqpl-qV81tIgYaTckfpH0vz8MkpDCi6bd69x9rlQe-aNuk-lSrAEJCRFnmx1j1HJGr40DaqUD9gxgAAliSmRfkD-VD2BEbffkKzwZwvrymeSJX8Cu_yiQz8TIzT5s.KS6IT4bFHjEK-IFIZv5a8H27fEch18o8S3lu8Osh_0U&dib_tag=se&keywords=electric+scooter&qid=1750717687&sprefix=ele%2Caps%2C566&sr=8-11&linkCode=ll1&tag=escooterprice-20&linkId=bef2e05e6590a957803d1c40d59687e0&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Segway-Electric-Hydraulic-Suspension-Certified/dp/B0DSMQJX1X"
   },
     {
     id: 39,
@@ -623,7 +623,7 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (214+)",
     priceRange: 949,
-    orderUrl: "https://www.amazon.com/Electric-Powerful-Off-Road-Foldable-Suspension/dp/B0CHYVXKMB?crid=2GZMSTTRS82XT&dib=eyJ2IjoiMSJ9.KpkDK5Urb8W5dSHo3RnBdgoiH80GtuedIARZ4nK0n3r7j_pYtB0Ov8SzMpRRJKVgvBtQVRIttG0FIg0DXoYj78hjQVKdYWXgQfrgMft-4f9y8ONWvD9rBmihZGJwPO9KieVAkKihXHCN7rU5tv0UupchVnMLCD5dA5pGQiTZpjb_OgzsOVdV2DlnYlYam1BHR1Z78gpDt1yK08gNA2Bgnln1lFKSGSXBGn5_eWyRUY2jx76RtNnaT33HVa0QF_nXKGLvXO9B8YvKxXOY-evQmIUBHUXBz-_5G0QZXdTg9RU.c57StLbMQKUEcBPceF-ZRk43JBysoIsSrWO0ROClI60&dib_tag=se&keywords=kugoo%2Belectric%2Bscooter&qid=1750718318&sprefix=kugoo%2Caps%2C517&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=escooterprice-20&linkId=49c9d4020b3b9cb9870c422b3b04ab82&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Electric-Powerful-Off-Road-Foldable-Suspension/dp/B0CHYVXKMB"
   },
     {
     id: 40,
@@ -639,7 +639,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (76+)",
     priceRange: 1299,
-    orderUrl: "https://www.amazon.com/G3Pro-Electric-Portable-Capacity-Foldable/dp/B0C3HHDMVP?crid=2GZMSTTRS82XT&dib=eyJ2IjoiMSJ9.NVxuFFVCj3DUBZHIIq5PEVHRb9VBlSUgbN-ELolxTRPmESxg3-oJ0O2i0mlV79RQ8x2xk8WX-D5oOl3T04AHB6e9UOlOnh1tvBurrcovKrgOim0yH4tN-DJ9ShmMiplKY48037DOo7FJPkmWdctYfOl2evuaBXKMsFjlGMPgqkOeZ2SLm-tbTdzQCVA7_trzvBRPGqVQksOtE_VZ-ESHIWuef1Ojn8lIfaZRmElfkWJlV2KBtoBsVqIqphylEzPXjlIJlmmVPvF9Q5lWpT5SvTRaDS_wQUn24Le1AeGNQvc.RP5KrOb8DSBCYhUIVa__7ck-4s4xYKh9fbM4N9gVrdo&dib_tag=se&keywords=kugoo%2Belectric%2Bscooter&qid=1750718747&sprefix=kugoo%2Caps%2C517&sr=8-6&th=1&linkCode=ll1&tag=escooterprice-20&linkId=efad2fc5f0ca45ddc2a0e509e20bba21&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/G3Pro-Electric-Portable-Capacity-Foldable/dp/B0C3HHDMVP"
   },
     {
     id: 41,
@@ -655,7 +655,7 @@ const products = [
     weight: 0,
     rating: "⭐929 (1749+)",
     priceRange: 929,
-    orderUrl: "https://www.amazon.com/NIU-KQi-Air-Electric-Certified/dp/B0CRVG965R?th=1&linkCode=ll1&tag=escooterprice-20&linkId=8fc65bfd11997016878614ff4d93d08e&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/NIU-KQi-Air-Electric-Certified/dp/B0CRVG965R"
   },
     {
     id: 42,
@@ -671,7 +671,7 @@ const products = [
     weight: 0,
     rating: "⭐4.1 (237+)",
     priceRange: 749,
-    orderUrl: "https://www.amazon.com/Electric-Kugookirin-G3-Powerful-Capacity/dp/B09VC7SPJB?&linkCode=ll1&tag=escooterprice-20&linkId=caae202d2650f6089a3234192c1b8a71&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Electric-Kugookirin-G3-Powerful-Capacity/dp/B09VC7SPJB"
   },
     {
     id: 43,
@@ -687,7 +687,7 @@ const products = [
     weight: 0,
     rating: "⭐4.3 (112+)",
     priceRange: 999,
-    orderUrl: "https://www.amazon.com/iScooter-Electric-Off-Road-Pneumatic-Scooters/dp/B0F6LPH2RB?crid=2AF0ZJ05M2AY1&dib=eyJ2IjoiMSJ9.8uX2DhOaezUcl4xx4EbcE2fPOZUzHih0uG6gCeSqKc73O-UGVtne0RB1M-7DG57g-OKINBvQlAAt32JPnYjSckvGx9mtHiLp6pKUpxJxulsADk_kB73FqTR2zIgFW4-Mlm20ydeVSHWPPbnB46-zmpSzRw1u2CtbBuuy1dleqOOu0nbSIu65C6dEtsSXxNv11V0DywWBoH-14FkbMphlJmd46kExcNYcj6hPQxiuf7utPfnDIiY4CVYsRz4rRi9jWXpCQbpHuzxd9U54uQpIbgYx6bztzhOe_i9huqL2828.7OsiqbXrwXE4Or3RfYm-FEda1Jh_PpemOo9-MLWQ16k&dib_tag=se&keywords=iscooter&qid=1750771095&s=sporting-goods&sprefix=isc%2Csporting%2C306&sr=1-1&th=1&linkCode=ll1&tag=escooterprice-20&linkId=080f79f3bc8d00eace1055613fffe445&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/iScooter-Electric-Off-Road-Pneumatic-Scooters/dp/B0F6LPH2RB"
   },
     {
     id: 44,
@@ -703,7 +703,23 @@ const products = [
     weight: 0,
     rating: "⭐4.2 (2169+)",
     priceRange: 1299,
-    orderUrl: "https://www.amazon.com/Gotrax-Atlas-Electric-Pneumatic-Absorption/dp/B0DWSTZ3CP?th=1&linkCode=ll1&tag=escooterprice-20&linkId=cf9a7d1ad340079a2c8a6460e10f3c20&language=en_US&ref_=as_li_ss_tl"
+    orderUrl: "https://www.amazon.com/Gotrax-Atlas-Electric-Pneumatic-Absorption/dp/B0DWSTZ3CP"
+  },
+    {
+    id: 45,
+    brand: "Segway",
+    name: "SuperScooter GT3, 31 MPH w/ 45-Mile Long Range, 2400W Peak Motor, Dual Hydraulic Suspension",
+    image: "https://m.media-amazon.com/images/I/51jWjUEGMbL._AC_SX679_.jpg",
+    alt: "Bulova Marine Star Automatic Diver",
+    distance: "45",
+    charging: "5",
+    maxpower: 2400,
+    topspeed: 31,
+    weightlimit: 330,
+    weight: 0,
+    rating: "⭐4.2 (183+)",
+    priceRange: 1758,
+    orderUrl: "https://www.amazon.com/Segway-SuperScooter-Hydraulic-Suspension-Self-Sealing/dp/B0DRXSQMJH"
   }
 
 
@@ -728,7 +744,7 @@ function renderProducts(products) {
             </div>
           </div>
           <div class="description">
-           <span><strong>${p.brand} ${p.name}</strong></span>
+           <span><strong>${p.id}${p.brand} ${p.name}</strong></span>
             <table><tbody>
               <tr><th scope="row">Max Distance</th><td>${p.distance} Miles</td></tr>
               <tr><th scope="row">Max Power</th><td>${p.maxpower} W</td></tr>
